@@ -19,5 +19,9 @@ gggg
 xxxx
 =======
 hhhh
+<<<<<<< HEAD
 >>>>>>> aaa
 yyyy
+=======
+kkkk
+>>>>>>> aaa
