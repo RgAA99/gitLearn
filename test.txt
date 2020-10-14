@@ -15,13 +15,7 @@ dddd
 eeee
 ffff
 gggg
-<<<<<<< HEAD
 xxxx
-=======
 hhhh
-<<<<<<< HEAD
->>>>>>> aaa
 yyyy
-=======
-kkkk
->>>>>>> aaa
+jjjj
